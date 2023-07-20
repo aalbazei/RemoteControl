@@ -3,4 +3,4 @@ Remote Control codes contains inserting a direction to the database and retrievi
 
 ##Remote Control page
 
-!
+![Remote Control](RemoteControlPage.png)
